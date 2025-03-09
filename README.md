@@ -1,1 +1,2 @@
 "# Edubot Project" 
+"## Installation Instructions" 
